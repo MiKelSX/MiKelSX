@@ -10,7 +10,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -38,7 +38,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.youtube.com/@mikelsx5458" target="_blank">
     <img src="https://img.shields.io/static/v1?message=MiKelSX&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
@@ -56,11 +56,15 @@
 
 ###
 
-<img align="left" height="200" src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=790b7611ys9thfab8mz16dhg1ul02gvn9hc6kjzd93vvxja9&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="left" height="216" src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=790b7611ys9thfab8mz16dhg1ul02gvn9hc6kjzd93vvxja9&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
-<img align="right" height="181" src="https://media.giphy.com/media/CXnj3jCwvETngjy11B/giphy.gif?cid=ecf05e47haujpumu3qabpe61o2xkj7p1rv0kg7gwc4ht507g&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="left" height="200" src="https://media.giphy.com/media/wcgn5fVDjvR7pdvz4C/giphy.gif?cid=ecf05e470q9pc3xegij7rmeuuamtd2bicrz28zozs0drau5x&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
+###
+
+<img align="right" height="184" src="https://media.giphy.com/media/CXnj3jCwvETngjy11B/giphy.gif?cid=ecf05e47haujpumu3qabpe61o2xkj7p1rv0kg7gwc4ht507g&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
@@ -70,10 +74,10 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/Qn74oPyaKYBpVWdA7t/giphy.gif?cid=ecf05e47f4mwf7h68ci4vglgpbnhl288l1oyh576uacqbedg&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="left" height="181" src="https://media.giphy.com/media/Qn74oPyaKYBpVWdA7t/giphy.gif?cid=ecf05e47f4mwf7h68ci4vglgpbnhl288l1oyh576uacqbedg&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
-<img align="left" height="115" src="https://media.giphy.com/media/UIN7Andwh7kDZGUvmt/giphy.gif?cid=790b76112zvnk9xp012gkyaa9ydbrdo0mw260yxxeheqpiqa&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="left" height="171" src="https://media.giphy.com/media/UIN7Andwh7kDZGUvmt/giphy.gif?cid=790b76112zvnk9xp012gkyaa9ydbrdo0mw260yxxeheqpiqa&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
