@@ -11,9 +11,9 @@
 <div align="center">
   <img alt="status github, commits, etc..." width="400px" src="https://github-readme-stats.vercel.app/api?username=MiKelSX&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8"  
     />
-  <br>
+  <br> <br>
   <img src="https://streak-stats.demolab.com?user=MiKelSX&locale=en&mode=daily&theme=dracula&border_radius=5" height="150" alt="streak graph"/>
-  <br>
+  <br> <br>
     <img alt="most used languages" width="360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiKelSX&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"/>
 </div>
 
@@ -77,10 +77,6 @@
 
 <img align="center" height="184" src="https://media.giphy.com/media/CXnj3jCwvETngjy11B/giphy.gif?cid=ecf05e47haujpumu3qabpe61o2xkj7p1rv0kg7gwc4ht507g&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
-
-###
-
-<br clear="both">
 
 <img align="center" height="440" src="https://img2.joyreactor.com/pics/post/full/picture-7816527.gif"  />
 
