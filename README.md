@@ -1,16 +1,19 @@
 <h2 align="center">I'm MiKelSX 🌐</h2>
-
 <div align="center">
 <img alt="Coding" width="200" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
-<br>
 </div>
 
 ---
 
+
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
+
 <div align="center">
   <img alt="status github, commits, etc..." width="400px" src="https://github-readme-stats.vercel.app/api?username=MiKelSX&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8"  
     />
-  <img src="https://streak-stats.demolab.com?user=MiKelSX&locale=en&mode=daily&theme=dracula&border_radius=5" height="150" alt="streak graph"  />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=MiKelSX&locale=en&mode=daily&theme=dracula&border_radius=5" height="150" alt="streak graph"/>
+  <br>
     <img alt="most used languages" width="360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiKelSX&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"/>
 </div>
 
@@ -66,9 +69,8 @@
 ###
 
 <div align="center">
-  <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=790b7611ys9thfab8mz16dhg1ul02gvn9hc6kjzd93vvxja9&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="200" style="margin: 20px;">
-  <img src="https://media.giphy.com/media/wcgn5fVDjvR7pdvz4C/giphy.gif?cid=ecf05e470q9pc3xegij7rmeuuamtd2bicrz28zozs0drau5x&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="200" style="margin: 20px;">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2pwczI1Z2ozampwd3Fla3NxcWt0NXRwNm9mbDJtcHN2ODN0enE3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CXnj3jCwvETngjy11B/giphy-downsized-large.gif" height="184" style="margin: 20px;">
+  <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=790b7611ys9thfab8mz16dhg1ul02gvn9hc6kjzd93vvxja9&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="220" style="margin: 20px;">
+  <img src="https://media.giphy.com/media/wcgn5fVDjvR7pdvz4C/giphy.gif?cid=ecf05e470q9pc3xegij7rmeuuamtd2bicrz28zozs0drau5x&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="220" 
 </div>
 
 ###
@@ -80,7 +82,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/MiKelSX/MiKelSX/output/snake.svg" alt="Snake animation" />
+<img align="center" height="440" src="https://img2.joyreactor.com/pics/post/full/picture-7816527.gif"  />
 
 ###
 
