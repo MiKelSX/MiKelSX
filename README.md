@@ -62,6 +62,10 @@
   <a href="https://www.paypal.com/paypalme/MiKelSX" target="_blank">
     <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
   </a>
+  <a href="https://app.soymach.com/rF2V/91s6oi3h" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Mach&logo=mach&label=&color=7a49a5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="mach logo" />
+</a>
+
 </div>
 
 ---
